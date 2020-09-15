@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Itaú Unibanco
+- 🚀 I’m currently learning Software Engineering, DevOps
+- 🌎 I'm currently founding a tech NGO in Brazil (https://screamcompany.com.br/)
+- 🐷 Fun fact: I don't eat animals
+
