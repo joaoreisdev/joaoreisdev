@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 - 🚀 I’m currently learning Software Engineering, DevOps
 - 🌎 I'm currently founding a tech NGO in Brazil (https://screamcompany.com.br/)
 - 🐷 Fun fact: I don't eat animals
-
-<a href="https://www.linkedin.com/in/joaoreis01/" class="footer__icon"><i class='bx bxl-linkedin'></i></a>
-<a href="https://github.com/joaoreisdev" class="footer__icon"><i class='bx bxl-github'></i></a>
-<a href="https://www.instagram.com/jao.vreis/?hl=pt-br" class="footer__icon"><i class='bx bxl-instagram'></i></a> 
